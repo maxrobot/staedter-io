@@ -1,0 +1,36 @@
+baseURL = "https://staedter.io"
+languageCode = "en-us"
+title = "Städter"
+theme = "origin"
+
+[params]
+  featured = true
+  disableHLJS = true                         # don't use highlight.js
+  twitter = 'maxrobot5'
+  github = 'maxrobot'
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+    
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 10
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[markup]
+  [markup.highlight]
+    style = "github"
+    tabWidth = 4
+
+[markup.goldmark.renderer]
+unsafe = true
