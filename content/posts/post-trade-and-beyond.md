@@ -50,4 +50,4 @@ Additionally, the creation of shared and transparent pricing methodologies is on
 
 Blockchain and smart contract can provide market participants with the tools and infrastructure to use trustless execution in the pricing and valuation of their trade obligations. This is just a small part of our platform that enables automated prime brokerage for market participants. Reducing, if not eliminating, valuation disputes is a key way of reducing the cost and failure rates in post-trade operations.
 
-[1]: https://www.marketsmedia.com/derivatives-post-trade-poised-for-digital-transformation/ 
+* [1]: https://www.marketsmedia.com/derivatives-post-trade-poised-for-digital-transformation/ 
