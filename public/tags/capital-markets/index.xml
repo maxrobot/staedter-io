@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>capital markets on Städter</title>
+    <link>https://staedter.io/tags/capital-markets/</link>
+    <description>Recent content in capital markets on Städter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://staedter.io/tags/capital-markets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post-trade, payments and beyond</title>
+      <link>https://staedter.io/posts/post-trade-and-beyond/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://staedter.io/posts/post-trade-and-beyond/</guid>
+      <description>In this short post we explain how blockchain technology can be used for more than simple value transfer between two counterparties. Indeed, we discuss how blockchain, and DLT, enables not just removal of the intermediaries in payments but also the third-parties responsible for calculations throughout the entire trade life-cycle.
+Where are we? The introduction of intermediaries to maintain ledgers of deposits was a key development in the history of money. The ability for merchants to deposit in one city and withdraw in another enabled movement of capital on a larger scale than before and was responsible for a significant rise in global economic development.</description>
+    </item>
+    
+  </channel>
+</rss>
