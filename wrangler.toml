@@ -1,0 +1,10 @@
+name = "staedter"
+type = "webpack"
+route = 'staedter.io/*'
+zone_id = '32eba69bd491f71a3f5fef1d961666c3'
+account_id = 'b14a68492995d6afc6967efc3c78268e'
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
+site = {bucket = "./public",entry-point = "staedter"}
+compatibility_date = "2021-12-30"

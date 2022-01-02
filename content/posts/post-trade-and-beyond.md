@@ -2,7 +2,7 @@
 author = "F. Grabner"
 title = "Post-trade, payments and beyond"
 date = "2021-12-27"
-description = "Lorem Ipsum Dolor Si Amet"
+description = ""
 tags = [
     "blockchain",
     "post-trade",
